@@ -4,14 +4,14 @@ body{
 aside{
     float:left;
     background:#E07A5F;
-    width:50%;
+    width:18%;
     padding:3%;
     height:100vh;
     color:#3D405B;
     border-right: 5px solid #3D405B;
 }
 aside img{
-    width:225px;
+    width:100%;
     float:left;}
 
 aside .logo{
